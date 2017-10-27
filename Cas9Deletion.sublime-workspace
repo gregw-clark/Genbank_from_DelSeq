@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"all",
+				"allstart"
+			],
+			[
+				"Ensel",
+				"EnsembleID"
+			],
+			[
+				"tran",
+				"transcript_info"
+			],
+			[
+				"panel",
+				"panela"
+			],
+			[
+				"clone",
+				"clone_name"
+			],
+			[
+				"es",
+				"es_name"
+			],
+			[
+				"mgi",
+				"mgiStrain"
+			],
+			[
+				"mgiGene",
+				"mgiGene"
+			],
+			[
+				"strain",
+				"strain"
+			],
+			[
+				"head",
+				"headsHTML"
+			],
+			[
+				"div",
+				"divGrna"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"get",
+				"getBBox"
+			],
+			[
+				"ENS",
+				"ENSMUS12321"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"un",
+				"unknown"
+			],
+			[
+				"shPI",
+				"shPIFirstName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "findDels.py",
+			"settings":
+			{
+				"buffer_size": 12114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "DELclass.py",
+			"settings":
+			{
+				"buffer_size": 12178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "DeletionGenBank.py",
+			"settings":
+			{
+				"buffer_size": 11489,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/protected/run_all_kidnet",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/protected/updating_mims_1_103_1.php",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/protected/updating_mims_503.php",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/protected/updating_mims_502.php",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/protected/moving_mice.php",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/protected/matching_mice_without_eartag.php",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/protected/matching_mice_tmp_cages.php",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/protected/matching_mice_new_2.php",
+		"/mnt/cmmrdbdev/home/clarkg/ModelHtmlTranscript.py",
+		"/home/clarkg/FLOWcyto/Analysis/ManualManual.py",
+		"/home/clarkg/FLOWcyto/Analysis/ManualManualCompare/PlotManuals.py",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/cooper.html",
+		"/mnt/cmmrdbdev/home/clarkg/FLOWcyto/CreateSpreadSheet.py",
+		"/home/clarkg/FLOWcyto/Analysis/PlotRectangles.py",
+		"/mnt/cmmrdbdev/home/clarkg/LaurylGillian_2017_05_10/CellLines.py",
+		"/mnt/cmmrdbdev/home/clarkg/LaurylGillian_2017_05_10/Dnew.py",
+		"/home/clarkg/Desktop/LaurylGillian_2017_05_10/InvestigateDrucker.py",
+		"/home/clarkg/Desktop/LaurylGillian_2017_05_10/Dnew.py",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/Webber.html",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MyExon.html",
+		"/mnt/cmmrdbdev/home/clarkg/ModelHtml.py",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/PartDown.html",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/js/deps/backbone-relational/backbone-relational.js",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/css/style.css",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/2606724452743619",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/2.html",
+		"/mnt/cmmrdbdev/home/clarkg/3.html",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/js/models/spacer_m.js",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/PairDown_working",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/js/pages/readout.js",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/js/views/svg_v.js",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/js/views/spacer_v.js",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/js/views/readout_v.js",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/css/bootstrap/bootstrap.min.css",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/PairDown",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/Merited.html",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/flips",
+		"/mnt/cmmrdb/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/2606724452743619",
+		"/mnt/cmmrdbdev/var/www/musmusculims/musculus/C9Req/MIT.CRISPR.html",
+		"/mnt/cmmrdb/var/www/musmusculims/musculus/C9Req/MIT.CRISPR/editedguide",
+		"/home/clarkg/_PeterLauryl_/packager.py",
+		"/home/clarkg/_PeterLauryl_/2017_04_17_Talk.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"opacity",
+			"onmouseover",
+			";\n",
+			"0",
+			"NO MATC",
+			"pass",
+			"NO MATC",
+			"NO MATH",
+			"logColor",
+			"=[]\n",
+			"print",
+			"color-t",
+			"color",
+			"medium",
+			"medium-qu",
+			"87986236",
+			"\"",
+			"span class",
+			"class=rank",
+			"class=\\\"rank",
+			"class=\"rank",
+			"class=\"rank:",
+			"class",
+			"font-fam",
+			"med-left-mar",
+			"Spacers",
+			"Forum",
+			"CRISPR DES",
+			"Interactive",
+			"on-target locus",
+			"job-title",
+			"Spacers",
+			"Spacer",
+			"Spacers",
+			"Interacti",
+			"show all exon",
+			"svg",
+			"csv",
+			"INITING",
+			"downloads",
+			"<div id=readout-container>",
+			"<div class=\"alert alert-warning alpha-warning header\">",
+			"inverse",
+			"A view containing all spacers i",
+			"all guides",
+			"all guodes",
+			"inverse",
+			"qscore",
+			"inverse"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "findDels.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "DELclass.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "DeletionGenBank.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Cas9Deletion.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
