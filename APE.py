@@ -61,7 +61,7 @@ class _singleExon():
 	def __init__(self,name,location):
 		print name
 		self.name=name
-                self.exonl="     exon            "+location#37417..37995"
+        self.exonl="     exon            "+location#37417..37995"
 		#APEobj.label="                     /label="#ENSMUSE00000506880 -/2
 		self.label="                     /label="+"\""+name+"\""#ENSMUSE00000506880 -/2
 		self.note ="                     /note="+"\""+name+"\""#ENSMUSE00000506880.2\"
@@ -145,15 +145,7 @@ class _Feature(APEobj):
 		self.label="                     /label=\""+self.name+"\""		#ENSMUSE00000506880 -/2
 		self.note ="                     /note=\""+self.name+"\""	#ENSMUSE00000506880.2\"
 		self.fwd  ="                     /ApEinfo_fwdcolor=\"#1bb3f5\""
-                self.rvs  ="                     /ApEinfo_revcolor=\"#1bb3f5\""
-                self.arw  ="                     /ApEinfo_graphicformat="+"\""+"arrow_data {{0 1 2 0 0 -1} {} 0}\n"\
+        self.rvs  ="                     /ApEinfo_revcolor=\"#1bb3f5\""
+        self.arw  ="                     /ApEinfo_graphicformat="+"\""+"arrow_data {{0 1 2 0 0 -1} {} 0}\n"\
 			   +"                     width 5 offset 0"+"\""
-
-
-# misc_feature    11501..11503
-#                     /label=START
-#                     /ApEinfo_fwdcolor=#80ff00
-#                     /ApEinfo_revcolor=#008040
-#                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
-#                     width 5 offset 0
 
